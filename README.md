@@ -1,2 +1,2 @@
 # yet-another-test-repo
-test v2
+test v3
